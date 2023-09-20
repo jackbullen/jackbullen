@@ -18,6 +18,6 @@
 </p>
 
 ---
-<img width="50%" align="left" src="https://streak-stats.demolab.com?user=jackbullen&hide_border=true&border_radius=80&locale=fr" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=jackbullen)](https://git.io/streak-stats)
 
 
