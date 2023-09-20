@@ -14,4 +14,3 @@
       <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="apple" width="55" height="55"/>
 </p>
----
